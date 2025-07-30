@@ -26,3 +26,24 @@ explicit type:
     narrow type casting
 
     int x = int(float)
+
+
+operators:
+3 type
+unery operators : it req 1 
+bi     2
+ter 3
+
+
+arithmetic : +,-,*,/,//,**,%
+relational :<,.....
+logical : and or not
+asignment op:=,
+membership op : in not in
+indentity op : is is not
+
+decion making statment
+
+if else 
+match case...
+loops
