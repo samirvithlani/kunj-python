@@ -1,0 +1,28 @@
+script lang, prog:
+script + prog  -->
+
+dynamically typed 
+
+python was developed ???1990
+POPS + OOPS
+interpred...
+python 3.x
+
+
+
+
+
+implicit type:
+    int x = 12.22
+    print("%d",x) -- 12
+    float f = 12
+    print("%f",) -- 12.0
+
+
+explicit type:
+    int x = int(12.22)
+
+    broder type
+    narrow type casting
+
+    int x = int(float)
