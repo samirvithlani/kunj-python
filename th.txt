@@ -46,4 +46,11 @@ decion making statment
 
 if else 
 match case...
-loops
+loops: 
+entry control loop :for while --> python
+exit conteol loop : do while
+
+range()
+
+
+get sp and ep from user and print oonly even nos bw them
