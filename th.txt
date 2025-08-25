@@ -54,3 +54,12 @@ range()
 
 
 get sp and ep from user and print oonly even nos bw them
+
+list:
+
+list is dynamic:
+list allows hetrogenius value..
+list stires data in index
+list is iterable
+list is subscripltable
+list allow duplicate values..
