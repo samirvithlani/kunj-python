@@ -28,3 +28,5 @@ print(data[0][1])
 
 #get row and column from user and remove that elemnt apply required validation
 
+#[["virat",10,20,30],["sachin",20,30,40],["rohit",20,30,40]]
+#[["virat",50],["sachin",90],[".."]]
