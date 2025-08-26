@@ -63,3 +63,16 @@ list stires data in index
 list is iterable
 list is subscripltable
 list allow duplicate values..
+
+
+
+please enter name or exit:
+
+list add.....
+exit:
+ list print...
+
+
+#remove duplicate elment in list
+ #find profit : [100,2200,30] -- >get profit % from user and after add give new list
+ #conver all name to upper and add int to new list
