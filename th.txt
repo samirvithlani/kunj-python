@@ -74,5 +74,7 @@ exit:
 
 
 #remove duplicate elment in list
- #find profit : [100,2200,30] -- >get profit % from user and after add give new list
- #conver all name to upper and add int to new list
+#find profit : [100,2200,30] -- >get profit % from user and after add give new list
+#conver all name to upper and add into new list
+#name starts with asked char and store to other list
+#mixed list int string --> int[] -- string [] -->
