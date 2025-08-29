@@ -63,7 +63,12 @@ list stires data in index
 list is iterable
 list is subscripltable
 list allow duplicate values..
+list is mutable
 
+
+tuple is immutable..
+tuple data type is tuple
+() using we can create tuple
 
 
 please enter name or exit:
@@ -78,3 +83,9 @@ exit:
 #conver all name to upper and add into new list
 #name starts with asked char and store to other list
 #mixed list int string --> int[] -- string [] -->
+
+
+[1,[2,[3,[4,[5]]]]]
+i data type list --> loop na hoi -->appedn
+
+[1,2,3,4,5]
