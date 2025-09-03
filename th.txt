@@ -101,3 +101,15 @@ value can be duplicate
 dict is dynaimic
 dict is iterable : loop
 dict is subscripltable: key ---> value
+
+
+
+goa = {"amit","sumit,"kunal","jay","ajay"}
+mumabi = {"amit","priya","neha","parth"}
+pune = {"amit","priya","ayypa","sanya"}
+
+
+find who have attended all events
+find who have attended mumbai and pune
+find who have not attended mumbai but goa
+find who have attended goa and pune and miss mumbai
