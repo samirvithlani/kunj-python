@@ -113,3 +113,8 @@ find who have attended all events
 find who have attended mumbai and pune
 find who have not attended mumbai but goa
 find who have attended goa and pune and miss mumbai
+
+calc(*args)
+
+calc("add",10,20,30)
+calc("sub",10,20,30,40,0)
