@@ -126,3 +126,19 @@ def printData(batchsize,totaldata):
     11 to 20
     comprehenion
 
+
+
+open
+read/ wriye / append
+close
+
+file:to achive data persictancy :
+to store data perm  in form of file or db ....
+
+Class
+modes -- r,w,a,b,r+
+
+path:
+relative path
+abs path : d:// // // // filen.txt
+function\GenerartorsDemo1.py
