@@ -120,3 +120,9 @@ calc("add",10,20,30)
 calc("sub",10,20,30,40,0)
 
 
+#10,100
+def printData(batchsize,totaldata):
+    1 to 10
+    11 to 20
+    comprehenion
+
