@@ -1,1 +1,3 @@
 name =ram age = 23
+name =ram1 age = 23
+name =ram3 age = 23
