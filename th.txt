@@ -157,3 +157,11 @@ Fruit   --.apple
 School -->student,te...
 
 class keyword..
+
+
+type of inheritance
+single a -->b
+multilevel -->a-->b-->c
+multipule  a ,b -->c
+hybride  --> mu
+hyrical -->tree structure
