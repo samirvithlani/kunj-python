@@ -172,3 +172,6 @@ run     L method over ridingn
 
 overloading:
 same name of method created in same class with diff aeguemnt called method...
+
+operator overloading:
++ ---> function
