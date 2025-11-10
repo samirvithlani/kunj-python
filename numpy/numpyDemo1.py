@@ -25,8 +25,10 @@ print(a)
 a = np.full((2,2),9)
 print(a)
 
-a = np.empty((2,2))
+a = np.empty((3,3))
 print(a)
 
 a = np.arange(10).reshape(5,2)
 print(a)
+
+
