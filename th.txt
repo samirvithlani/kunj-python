@@ -182,3 +182,19 @@ UPI -->
 
 HDBC -->upi -->bank --> upi
 SBI -->upi -->bank -->upi
+
+------------------------------
+while 
+    Student --->
+    id name age marks-->
+    list --add
+    list --add
+
+display:
+    list --> NoDataFondError..
+
+delete:
+    please enter stu name delete-->
+    delete:
+    found NoDataFound...
+
